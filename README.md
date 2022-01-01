@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In case you need some more information on me, check this out: https://pauliusmacernis.github.io/
+In case you want some more information on me, check this out: https://pauliusmacernis.github.io/
 
 <!--
 **PauliusMacernis/PauliusMacernis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
