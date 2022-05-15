@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In case you want some more information on me, check this out: https://pauliusmacernis.github.io/
+In case you want some more information on me, check this out: https://www.linkedin.com/in/pauliusmacernis/ <!-- https://pauliusmacernis.github.io/ -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=PauliusMacernis&count_private=true&show_icons=true&theme=algolia" /> -->
   
