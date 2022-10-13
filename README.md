@@ -2,6 +2,12 @@
 
 In case you want some more information on me, check this out: https://www.linkedin.com/in/pauliusmacernis/ <!-- https://pauliusmacernis.github.io/ -->
 
+Recommended topics to discuss:  
+
+- [PHP](https://github.com/topics/php)
+- [JavaScript](https://github.com/topics/javascript)
+- [Python topic](https://github.com/topics/python) or [Python bugs](https://github.com/search?l=Python&q=label%3Abug+state%3Aopen&ref=advsearch&type=Issues)
+
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=PauliusMacernis&count_private=true&show_icons=true&theme=algolia" /> -->
   
   
