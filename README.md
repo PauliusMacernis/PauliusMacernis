@@ -2,7 +2,7 @@
 
 In case you want some more information on me, check this out: https://www.linkedin.com/in/pauliusmacernis/ <!-- https://pauliusmacernis.github.io/ -->
 
-Recommendations for discussions: [PHP topic (2007-)](https://github.com/topics/php), [JavaScript topic (2021-)](https://github.com/topics/javascript), [Python topic (2022-)](https://github.com/topics/python) / [Python bugs](https://github.com/search?l=Python&q=label%3Abug+state%3Aopen&ref=advsearch&type=Issues)
+Recommendations for discussions: [PHP topic (2007-)](https://github.com/topics/php), [JavaScript topic (2021-)](https://github.com/topics/javascript), [Python topic (2022-)](https://github.com/topics/python) <!--/ [Python bugs](https://github.com/search?l=Python&q=label%3Abug+state%3Aopen&ref=advsearch&type=Issues)-->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=PauliusMacernis&count_private=true&show_icons=true&theme=algolia" /> -->
   
